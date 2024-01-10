@@ -1,3 +1,9 @@
+'''
+to detect red
+lower are 150H, 90S, 0V
+upper are max
+'''
+
 import cv2
 import numpy as np
 

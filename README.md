@@ -17,4 +17,4 @@ Installation Steps:
    * Follow this tutorial to install and setup git locally: https://kinsta.com/knowledgebase/install-git/
 
 Cloning the repository:
-* Type ` git clone https://github.com/tejalkul/InvisibilityCloak.git` on the terminal or command prompt.
+* Type ` git clone https://github.com/tejalkul/TL-CV-Workshop.git` on the terminal or command prompt.
